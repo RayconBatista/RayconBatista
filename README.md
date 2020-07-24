@@ -18,7 +18,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Tools
-<img style="float: right;" width="50" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png">
-<!-- <img style="float: right;" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png"> -->
 
+<!-- <div>
+    
+</div> -->
+<!-- <img style="float: right;" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png"> -->
+### Tools
+<div class="box">
+    <img style="float: right;" width="50" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png">
+</div>
+<div class="box">
+    <img style="float: right;" width="50" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png">
+
+</div>
+
+<style>
+div.box {
+	width: 150px;
+	display: inline-block;
+}
+</style>
