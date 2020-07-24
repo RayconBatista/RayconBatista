@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](images/banner_github.png)
+![image](/images/banner_github.png)
 
 <!--
 **R4YC0NLima/R4YC0NLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
