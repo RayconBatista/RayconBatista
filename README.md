@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / His
 <!-- - ⚡ Fun fact: ... -->
 
-### Tools
-<img style="float: right; margin-right:5px;" width="50" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png"> <img style="float: right; margin-right:5px;" width="50" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"><img style="float: right; margin-right:5px;" width="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R4YC0NLima&show_icons=true&theme=radical)
 
 
 <!-- <img style="float: right;" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png"> -->
