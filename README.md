@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He / His
 <!-- - ⚡ Fun fact: ... -->
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R4YC0NLima&show_icons=true&theme=radical)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4YC0NLima&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R4YC0NLima&show_icons=true&theme=radical)
 
 
 <!-- <img style="float: right;" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png"> -->
