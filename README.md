@@ -1,4 +1,3 @@
-![image](https://github.com/R4YC0NLima/R4YC0NLima/blob/master/images/banner_github.png)
 ### Hi there 👋
 
 
