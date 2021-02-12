@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=R4YC0NLima.visitor-badge)
 
 
 **R4YC0NLima/R4YC0NLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
