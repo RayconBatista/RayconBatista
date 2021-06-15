@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / His
 <!-- - ⚡ Fun fact: ... -->
  
- <div align="center">
+ <div style="display:flex; justify-content: space-between;">
   <a href="https://github.com/R4YC0NLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4YC0NLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4YC0NLima&layout=compact&langs_count=16&theme=dracula"/>
