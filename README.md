@@ -20,8 +20,8 @@ Here are some ideas to get you started:
  
  <div style="display:flex;">
   <a href="https://github.com/R4YC0NLima">
-  <img style="height: 180em; justify-content: space-between;" src="https://github-readme-stats.vercel.app/api?username=R4YC0NLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img style="height: 180em; justify-content: space-between;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4YC0NLima&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" style="justify-content: space-between" src="https://github-readme-stats.vercel.app/api?username=R4YC0NLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  height="180em"  style="justify-content: space-between" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4YC0NLima&layout=compact&langs_count=16&theme=dracula"/>
    </div>
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4YC0NLima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R4YC0NLima&show_icons=true&theme=radical) -->
