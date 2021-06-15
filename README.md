@@ -20,12 +20,9 @@ Here are some ideas to get you started:
  
  <div style="display:flex;" align="center">
   <a href="https://github.com/R4YC0NLima">
-  <img height="180em" style="justify-content: space-between" src="https://github-readme-stats.vercel.app/api?username=R4YC0NLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=50"/>
-  <img  height="180em"  style="justify-content: space-between" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4YC0NLima&layout=compact&langs_count=16&theme=dracula&card_width=50"/>
+  <img height="180em" style="justify-content: space-between" src="https://github-readme-stats.vercel.app/api?username=R4YC0NLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  height="180em"  style="justify-content: space-between" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4YC0NLima&layout=compact&langs_count=16&theme=dracula"/>
    </div>
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4YC0NLima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R4YC0NLima&show_icons=true&theme=radical) -->
-
 
 ![Snake animation](https://github.com/R4YC0NLima/R4YC0NLima/blob/output/github-contribution-grid-snake.svg)
 
