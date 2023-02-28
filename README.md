@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=R4YC0NLima.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RayconBatista.visitor-badge)
 
 
 **R4YC0NLima/R4YC0NLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,10 +9,10 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I'm currently working on the AFLine website
+- 🔭 I am currently working on Creative Code 
 - 🌱 I'm currently learning Flutter
-- 👯 I’m looking to collaborate on the NGestor website
-- 🤔 I’m looking for help with Vue
+- 👯 I'm looking to collaborate on my [Portifolio](https://rayconlimabatista.com.br)
+- 🤔 I’m looking for help with React/NextJs
 - 💬 Ask me about Flutter
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He / His
