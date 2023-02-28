@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/R4YC0NLima">
   <img height="180em" style="justify-content: space-between" src="https://github-readme-stats.vercel.app/api?username=RayconBatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  height="180em"  style="justify-content: space-between" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayconBatista&layout=compact&langs_count=16&theme=dracula"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rayconbatista&" alt="rayconbatista" />
    </div>
+ 
 
 ![Snake animation](https://github.com/R4YC0NLima/R4YC0NLima/blob/output/github-contribution-grid-snake.svg)
 
