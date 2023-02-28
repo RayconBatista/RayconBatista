@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    </div>
  
 
-![Snake animation](https://github.com/R4YC0NLima/R4YC0NLima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RayconBatista/RayconBatista/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <img style="float: right;" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png"> -->
 
